@@ -38,3 +38,11 @@ Was trying to find out the benefits of using view in a postgresql table which no
 ```
 
 ```
+
+######Postgresql options
+```
+\q <- this is to quit from the sql command prompt
+\d table_name <-this list the tables columns
+\dt <- this list the tables that is contained in the database
+\dt schema_name.* <- display all the table relating to that schema
+```
