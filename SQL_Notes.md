@@ -32,7 +32,7 @@ INSERT INTO table1
 UPDATE table_name SET column1=value1,column2=value2 WHERE some_column=some_value;
 ``` 
 
-#VIEW
+######VIEW
 source:http://www.tomjewett.com/dbdesign/dbdesign.php?page=views.php
 Was trying to find out the benefits of using view in a postgresql table which no one really explain why until this source which states that the view do not take up any disk space which makes more sense for querying data.
 ```
